@@ -15,7 +15,7 @@ Here are some photos related to the project:
 ![Photo 3](<img width="1470" alt="Adsız2" src="https://github.com/user-attachments/assets/f60f1972-7980-46fc-b643-22230de6d74a">)
 
 ### Photo 4
-![Photo 4](<img width="1470" alt="Adsız3" src="https://github.com/user-attachments/assets/ac3bd5dd-9ab1-4354-b4f2-7ff611086005">)
+![Photo 4](https://github.com/user-attachments/assets/ac3bd5dd-9ab1-4354-b4f2-7ff611086005)
 
 
 
